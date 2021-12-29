@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Admin-01",
+      "email": "admin@mail.com",
+      "password": "1234",
+      "role": "admin",
+      "status": "Active",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdD1rK4ZtCJVizS00LaWifgJnY-wzSVBoHw&usqp=CAU",
+      "cart": []
+    },
+    {
+      "username": "agung",
+      "email": "agung@mail.com",
+      "password": "1234",
+      "role": "User",
+      "status": "Active",
+      "cart": [],
+      "id": 2
+    },
+    {
+      "username": "agung",
+      "email": "agung@mail.com",
+      "password": "1234",
+      "role": "User",
+      "status": "Active",
+      "cart": [],
+      "id": 3
+    },
+    {
+      "username": "agung",
+      "email": "agung@mail.com",
+      "password": "1234",
+      "role": "User",
+      "status": "Active",
+      "cart": [],
+      "id": 4
+    },
+    {
+      "username": "agung",
+      "email": "agung@mail.com",
+      "password": "1234",
+      "role": "User",
+      "status": "Active",
+      "cart": [],
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "nama": "Top Up",
+      "kategori": "Mobile Legend",
+      "harga": 10000,
+      "stock": [
+        {
+          "id": null,
+          "nominal": "Diamond",
+          "qty": 12
+        }
+      ],
+      "images": [
+        "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/107/0810720_PE771385_S4.jpg"
+      ],
+      "id": 1
+    }
+  ]
+}
