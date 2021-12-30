@@ -20,31 +20,13 @@
       "id": 2
     },
     {
-      "username": "agung",
-      "email": "agung@mail.com",
+      "username": "satria",
+      "email": "satria@mail.com",
       "password": "1234",
-      "role": "User",
+      "role": "user",
       "status": "Active",
-      "cart": [],
+      "book": [],
       "id": 3
-    },
-    {
-      "username": "agung",
-      "email": "agung@mail.com",
-      "password": "1234",
-      "role": "User",
-      "status": "Active",
-      "cart": [],
-      "id": 4
-    },
-    {
-      "username": "agung",
-      "email": "agung@mail.com",
-      "password": "1234",
-      "role": "User",
-      "status": "Active",
-      "cart": [],
-      "id": 5
     }
   ],
   "products": [

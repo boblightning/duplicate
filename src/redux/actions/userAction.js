@@ -1,10 +1,10 @@
 import axios from "axios"
 import { API_URL } from "../../helper"
 
-export const onLogin = (username, password) => {
+export const onLogin = (email, password) => {
     return async (dispatch) => {
         try {
-            let res = await axios.get(`${API_URL}/users?username=${username}&password=${password}`)
+            let res = await axios.get(`${API_URL}/users?email=${email}&password=${password}`)
             if (res.data.length > 0) {
                 console.log("data",res.data)
                 localStorage.setItem("data", JSON.stringify(res.data[0]))
