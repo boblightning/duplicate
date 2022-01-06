@@ -43,3 +43,16 @@
   min-height: 300px;
   text-align: center;
 }
+.topup-banner{
+  background: url("https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2018/06/Cara-dan-Langkah-Mudah-Top-Up-Saldo-Tokopedia.jpg") center no-repeat;
+  background-size: cover;
+  min-height: 100px;
+  text-align: left;
+}
+.item-banner{
+  background: url("https://1.bp.blogspot.com/-GAhkb5xi1QI/YT8Ap96swdI/AAAAAAAAIWw/-451K3Za5NQRzD52qPlpr8TuSDCL-RWtQCLcBGAsYHQ/s799/takapedia%2Bml%2Bstore.jpg") center no-repeat;
+  background-size: cover;
+  min-height: 100px;
+  text-align: left;
+}
+
