@@ -141,7 +141,7 @@ class LoginPage extends React.Component {
                                     </div>
                                 </div>
                                 <FormGroup style={{ textAlign: "center" }}>
-                                    <Button onClick={this.btLogin} style={{ width: "200px", backgroundColor: "#6EC8C7", borderRadius: 20 }}>LOGIN</Button>
+                                    <Button onClick={this.btLogin} style={{ width: "200px", backgroundColor: "#6EC8C7", borderRadius: 20, marginTop:"20px" }}>LOGIN</Button>
                                 </FormGroup>
                                 <div style={{ width: "400px", fontSize: "14px", marginTop: "50px", textAlign: "center" }}><p style={{ color: "black" }}>Belum Bergabung?
                                     <Link to="/Register"> <a style={{ cursor: "pointer", color: "#6EC8C7" }}>Daftar Disini</a></Link></p>

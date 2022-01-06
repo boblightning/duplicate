@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.banner{
+  background: url("https://kinetic.id/wp-content/uploads/2019/05/marketplace.jpg") center no-repeat;
+  background-size: cover;
+  min-height: 300px;
+  text-align: center;
+}
