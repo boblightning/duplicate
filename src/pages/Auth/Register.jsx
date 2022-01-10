@@ -2,7 +2,7 @@ import axios from 'axios';
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Button, Card, FormGroup, Input, InputGroup, InputGroupText, Label } from 'reactstrap';
-import { API_URL } from '../helper'
+import { API_URL } from '../../helper'
 
 class RegisterPage extends React.Component {
     constructor(props) {

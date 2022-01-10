@@ -1,0 +1,22 @@
+.input-search-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .input-search-content {
+    max-width: 50%;
+    margin: 0 auto;
+    width: 100%;
+  }
+  
+  .input-search-content .input-group {
+    height: 48px;
+  }
+  
+  .input-search-content .input-group .form-control {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  

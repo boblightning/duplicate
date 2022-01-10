@@ -36,6 +36,15 @@
       "status": "Active",
       "book": [],
       "id": 4
+    },
+    {
+      "username": "coba",
+      "email": "coba@mail.com",
+      "password": "1234",
+      "role": "user",
+      "status": "Active",
+      "book": [],
+      "id": 5
     }
   ],
   "products": [

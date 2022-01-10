@@ -1,9 +1,9 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { onLogin } from '../redux/actions/userAction';
+import { onLogin } from '../../redux/actions/userAction';
 import { Alert, Button, Card, Form, FormGroup, Input, InputGroup, InputGroupText, Label } from 'reactstrap';
 import axios from 'axios';
-import { API_URL } from '../helper';
+import { API_URL } from '../../helper';
 import { Link, Navigate } from 'react-router-dom';
 
 

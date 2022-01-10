@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 import { Route, Routes } from 'react-router';
-import HomePage from './pages/HomePage';
+import HomePage from './pages/Home/HomePage'
 import React from 'react';
 import { connect } from 'react-redux';
 import { onLogin, onLogout } from './redux/actions/userAction';
 import NavbarComponent from './components/Navbar';
-import LoginPage from './pages/Login';
-import RegisterPage from './pages/Register';
+import LoginPage from './pages/Auth/Login';
+import RegisterPage from './pages/Auth/Register';
 
 
 
